@@ -1,0 +1,5 @@
+{
+  "appId": "YOUR_FEISHU_APP_ID_HERE",
+  "appSecret": "YOUR_FEISHU_APP_SECRET_HERE",
+  "name": "DocAgent"
+}

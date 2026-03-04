@@ -1,0 +1,7 @@
+{
+  "agentId": "docagent",
+  "match": {
+    "channel": "feishu",
+    "accountId": "docagent"
+  }
+}

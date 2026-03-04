@@ -1,0 +1,10 @@
+{
+  "id": "docagent",
+  "name": "DocAgent",
+  "workspace": "/Users/evcgs/.openclaw/agents/DocAgent/workspace",
+  "agentDir": "/Users/evcgs/.openclaw/agents/DocAgent",
+  "identity": {
+    "name": "DocAgent",
+    "emoji": "📚"
+  }
+}
