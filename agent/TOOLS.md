@@ -6,8 +6,8 @@ _Local configuration and credentials for DocAgent_
 
 DocAgent is configured with dedicated Feishu robot credentials:
 
-- **App ID:** YOUR_FEISHU_APP_ID_HERE
-- **App Secret:** YOUR_FEISHU_APP_SECRET_HERE
+- **App ID:** 【需要替换为你的飞书 App ID】
+- **App Secret:** 【需要替换为你的飞书 App Secret】
 - **Account ID:** docagent
 
 ## Capabilities

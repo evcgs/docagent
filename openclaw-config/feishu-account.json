@@ -1,5 +1,5 @@
 {
-  "appId": "YOUR_FEISHU_APP_ID_HERE",
-  "appSecret": "YOUR_FEISHU_APP_SECRET_HERE",
+  "appId": "【需要替换为你的飞书 App ID】",
+  "appSecret": "【需要替换为你的飞书 App Secret】",
   "name": "DocAgent"
 }
